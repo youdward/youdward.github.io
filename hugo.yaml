@@ -100,9 +100,9 @@ params:
 
   # 主页信息模式
   homeInfoParams:
-    Title: "Hi \U0001F44B, 欢迎来到我的博客"
+    Title: "你好\U0001F44B, 欢迎来到我的博客"
     Content: >
-      这里是我的个人空间，记录生活与技术。
+      这里是油德华的个人空间，记录技术和分享热爱。
 
   # 社交图标
   socialIcons:
